@@ -1,4 +1,7 @@
 ## Hi there 👋
+Ola eu sou um estudante do Alurastart!
+
+Tentado aprender sempre eba!
 
 <!--
 **KFDLAL2B/KFDLAL2B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
